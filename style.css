@@ -15,7 +15,7 @@ body {
 .portrait {
   font-size: 10px;
   line-height: 10px;
-  background: url('./1.jpg') fixed center no-repeat;
+  background: url('./schmetterling-OqIuR_zLSqs-unsplash.jpg') fixed center no-repeat;
   background-size: contain;
 }
 
@@ -23,5 +23,5 @@ body {
 .portrait {
   background-clip: text;
   -webkit-background-clip: text;
-  -webkit-text-fill-color: rgba(8, 7, 7, 0);
+  -webkit-text-fill-color: rgba(0, 0, 0, 0.067);
 }
